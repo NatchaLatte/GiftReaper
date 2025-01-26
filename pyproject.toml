@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "GiftReaper"
+version = "0.0.1"
+authors = [
+  { name="NatchaLatte Official", email="foxteary@gmail.com" },
+]
+keywords = ["giftreaper", "truemoney", "angpao", "payment", "red envelope"]
+description = "GiftReaper เป็นแพ็กเกจสำหรับช่วยในทำธุรกรรมจากการส่งซองทรูมันนี่"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+  "cloudscraper==1.2.71"
+]
+
+[project.urls]
+Homepage = "https://github.com/NatchaLatte/GiftReaper"
+Issues = "https://github.com/NatchaLatte/GiftReaper/issues"

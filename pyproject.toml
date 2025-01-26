@@ -9,7 +9,7 @@ authors = [
   { name="NatchaLatte Official", email="foxteary@gmail.com" },
 ]
 keywords = ["giftreaper", "truemoney", "angpao", "payment", "red envelope"]
-description = "GiftReaper เป็นแพ็กเกจสำหรับช่วยในทำธุรกรรมจากการส่งซองทรูมันนี่"
+description = "GiftReaper เป็นแพ็กเกจสำหรับช่วยในการทำธุรกรรมจากการส่งซองทรูมันนี่"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
